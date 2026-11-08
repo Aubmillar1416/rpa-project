@@ -1,0 +1,7 @@
+openpyxl
+pandas
+analyticskit
+from pynput.keyboard import Key, Controller as KeyboardController
+time
+subprocess
+datetime
